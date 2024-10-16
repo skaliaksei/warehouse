@@ -1,6 +1,7 @@
 from PyQt6.QtWidgets import QApplication, QWidget, QMainWindow, QDialog
 from PyQt6.QtGui import QIcon
 import sys
+import pyqt6-tools
 
 # в скобках sys.argv если используем командную строку
 app = QApplication(sys.argv)
